@@ -1,3 +1,0 @@
-# Its Cabinet
-
-Repository bootstrap.
